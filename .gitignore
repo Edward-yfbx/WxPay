@@ -1,43 +1,13 @@
-*.iml
+
 .gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
+.idea
 .DS_Store
+.externalNativeBuild
 /build
+/local.properties
 /captures
-.externalNativeBuild
-
-
-# Ignore specified file
-google-services.json
-.externalNativeBuild
-freeline.py
-freeline_project_description.json
-local.properties
-
-# Ignore all files under
-proguard/
-build/
-.gradle/
-.idea/
-bin/
-gen/
-out/
-.navigation/
-captures/
-freeline/
-
-
-# Ignore all files matching
-*.apk
-*.ap_
-*.log
 *.iml
 *.iws
 *.jks
 *.keystore
-*.class
-*.dex
-
 
